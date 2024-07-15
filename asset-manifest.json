@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bhive-react/static/css/main.e6c13ad2.css",
+    "main.js": "/bhive-react/static/js/main.98d43bdd.js",
+    "static/js/453.f7a295e0.chunk.js": "/bhive-react/static/js/453.f7a295e0.chunk.js",
+    "static/media/hero-main.png": "/bhive-react/static/media/hero-main.3cce918ccc76828ca7f3.png",
+    "static/media/laptop-icon.png": "/bhive-react/static/media/laptop-icon.48a37889ae04a57c9aed.png",
+    "static/media/BHIVE-Square-Logo-removebg-preview.png": "/bhive-react/static/media/BHIVE-Square-Logo-removebg-preview.655908a4b41dcfebdc91.png",
+    "static/media/gpb.png": "/bhive-react/static/media/gpb.e2fb2c431cf788cbe083.png",
+    "static/media/logo-bh.png": "/bhive-react/static/media/logo-bh.c8c1f15c3ebd98a9b0ab.png",
+    "static/media/asb.png": "/bhive-react/static/media/asb.b0452b500d0577349df7.png",
+    "static/media/dummy.jpg": "/bhive-react/static/media/dummy.ff601939a03facd3da3a.jpg",
+    "static/media/strelitzia plant-cuate.svg": "/bhive-react/static/media/strelitzia plant-cuate.27b2c796bd5c480cdf717d917d309722.svg",
+    "static/media/hero-bg.jpg": "/bhive-react/static/media/hero-bg.31b3dbd81cbf24ba5c72.jpg",
+    "static/media/mobile-content.avif": "/bhive-react/static/media/mobile-content.6d58b144b15f7e6c53eb.avif",
+    "index.html": "/bhive-react/index.html",
+    "main.e6c13ad2.css.map": "/bhive-react/static/css/main.e6c13ad2.css.map",
+    "main.98d43bdd.js.map": "/bhive-react/static/js/main.98d43bdd.js.map",
+    "453.f7a295e0.chunk.js.map": "/bhive-react/static/js/453.f7a295e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.98d43bdd.js"
+  ]
+}
