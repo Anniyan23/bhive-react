@@ -1,4 +1,3 @@
-// src/App.tsx
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
@@ -8,7 +7,7 @@ import { DataProvider } from './context/DataContext';
 const App: React.FC = () => {
   return (
     <DataProvider>
-      <Router>
+      <Router basename="/bhive-react">
         <GlobalStyles />
         <Routes>
           <Route path="/" element={<Home />} />
